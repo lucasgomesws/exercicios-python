@@ -28,6 +28,6 @@ python3 caminho/do/arquivo.py
 
 Os scripts em `05-pygame/` exigem a biblioteca `pygame`:
 
-````bash
+```bash
 pip install pygame
 ```
