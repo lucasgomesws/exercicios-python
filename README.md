@@ -17,13 +17,17 @@ Repositório de exercícios práticos em Python desenvolvidos durante o primeiro
 > **Nota:** Os scripts da pasta `05-pygame/` (como `quadrado_controlavel.py`) serviram como base conceitual para o desenvolvimento do projeto **Recife Verde**.
 
 ---
-
 ## 🛠️ Como Executar
 
 1. Certifique-se de ter o Python 3 instalado.
 2. Execute qualquer script pelo terminal:
 
-```bash
+\`\`\`bash
 python3 caminho/do/arquivo.py
+\`\`\`
 
-`quadrado_controlavel.py` é a base conceitual que evoluiu para o projeto **Recife Verde**.
+Os scripts em `05-pygame/` exigem a biblioteca `pygame`:
+
+\`\`\`bash
+pip install pygame
+\`\`\`
