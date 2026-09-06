@@ -22,12 +22,12 @@ Repositório de exercícios práticos em Python desenvolvidos durante o primeiro
 1. Certifique-se de ter o Python 3 instalado.
 2. Execute qualquer script pelo terminal:
 
-\`\`\`bash
+```bash
 python3 caminho/do/arquivo.py
-\`\`\`
+```
 
 Os scripts em `05-pygame/` exigem a biblioteca `pygame`:
 
-\`\`\`bash
+````bash
 pip install pygame
-\`\`\`
+```
