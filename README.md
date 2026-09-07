@@ -14,7 +14,7 @@ Repositório de exercícios práticos em Python desenvolvidos durante o primeiro
 | `04-funcoes-estruturas-dados/` | Modularização com funções, manipulação de dicionários e tuplas |
 | `05-pygame/` | Game loop, tratamento de eventos, inputs de teclado e colisão com bordas |
 
-> **Nota:** Os scripts da pasta `05-pygame/` (como `quadrado_controlavel.py`) serviram como base conceitual para o desenvolvimento do projeto **Recife Verde**.
+> **Nota:** Os scripts da pasta `05-pygame/` (como `quadrado_controlavel.py`) serviram como base conceitual para o desenvolvimento do projeto **Recife Verde**, principalmente para a movimentação do **protagonista** e a forma que o inimigo se move durante a **segunda fase**.
 
 ---
 ## 🛠️ Como Executar
@@ -26,7 +26,7 @@ Repositório de exercícios práticos em Python desenvolvidos durante o primeiro
 python3 caminho/do/arquivo.py
 ```
 
-Os scripts em `05-pygame/` exigem a biblioteca `pygame`:
+Os scripts em `05-pygame/` exigem a biblioteca `pygame`, certifique-se de ir ao terminal e escrever:
 
 ```bash
 pip install pygame
